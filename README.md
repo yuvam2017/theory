@@ -15,7 +15,7 @@ A quick-reference sheet for UPSC Sociology Optional, covering theory, syllabus, 
 
 | File | Use |
 |---|---|
-| `Sociology_UPSC_Comparison.html` | Open in any browser; source file, easiest to edit |
+| `index.html` | Open in any browser; source file, easiest to edit |
 | `Sociology_UPSC_Comparison.pdf` | Print-ready, A3 landscape, for offline reading/printing |
 
 ## Notes
